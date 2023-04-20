@@ -1,0 +1,29 @@
+
+.navbar{
+    display: flex;
+    align-items: center;
+    
+    /* justify-content: end; */
+    background-color: rgb(124, 212, 221);
+    height: 30px;
+    text-decoration: none;
+    color: black;
+    outline: none;
+
+
+}
+
+
+
+
+a{
+    text-decoration: none;
+    color: inherit;
+    margin-inline: 10px;
+}
+
+a:hover {
+    color: inherit;
+  }
+
+

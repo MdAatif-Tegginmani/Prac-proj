@@ -1,0 +1,25 @@
+
+.btn-menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    margin-top: 40%;
+
+    
+
+    
+
+}
+  
+.logbtn{
+  background-color: rgb(0, 0, 0);
+  color: aliceblue;
+  height: 64px;
+  border: none;
+  width: 96px;
+  border-radius: 5px;
+  
+
+
+}
